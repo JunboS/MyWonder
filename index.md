@@ -5,7 +5,9 @@ MyWonder is a platform for big data analytics and visualization. It has excellen
 ## Waste 
 
 Waiting: the customer is waiting for the internal team to communicate to report problems to the right stuff.
+
 Motion: leaving clients meetings to call the customer assistance team constantly.
+
 Skills: customer support team spending time locating a particular team(backend) to fix a specific problem.
 
 ## Deliverables
@@ -25,3 +27,6 @@ Create powerpoint
 Successful client review (with Demo)
 
 ## Gantt Chart
+
+!(/Gantt chart.png)
+Format: !(url)
