@@ -1,6 +1,6 @@
 ## MyWonder
 
-MyWonder is a platform for big data analytics and visualization. It has excellent performances and is easy to use. It allows users to access it from mobile phones, use data stored on the cloud to calculate their analytics and summaries, and finally, visualize the result in just a few minutes.
+
 
 ### Markdown
 
@@ -15,13 +15,7 @@ MyWonder is a platform for big data analytics and visualization. It has excellen
 Waiting: the customer is waiting for the internal team to communicate to report problems to the right stuff.
 Motion: leaving clients meetings to call the customer assistance team constantly.
 Skills: customer support team spending time locating a particular team(backend) to fix a specific problem.
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
