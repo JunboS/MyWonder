@@ -28,5 +28,5 @@ Successful client review (with Demo)
 
 ## Gantt Chart
 
-!(/Gantt chart.png)
+!(https://github.com/JunboS/MyWonder/blob/main/Gantt%20chart.png)
 Format: !(url)
