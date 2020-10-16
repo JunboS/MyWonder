@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## MyWonder
 
-You can use the [editor on GitHub](https://github.com/JunboS/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+MyWonder is a platform for big data analytics and visualization. It has excellent performances and is easy to use. It allows users to access it from mobile phones, use data stored on the cloud to calculate their analytics and summaries, and finally, visualize the result in just a few minutes.
 
 ### Markdown
 
@@ -11,8 +9,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Porject Summary
+MyWonder is a platform for big data analytics and visualization. It has excellent performances and is easy to use. It allows users to access it from mobile phones, use data stored on the cloud to calculate their analytics and summaries, and finally, visualize the result in just a few minutes.
+## Waste
+Waiting: the customer is waiting for the internal team to communicate to report problems to the right stuff.
+Motion: leaving clients meetings to call the customer assistance team constantly.
+Skills: customer support team spending time locating a particular team(backend) to fix a specific problem.
 ### Header 3
 
 - Bulleted
