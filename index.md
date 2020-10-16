@@ -27,5 +27,5 @@ Create powerpoint
 Successful client review (with Demo)
 
 ## Gantt Chart
-![Gantt Chart](https://github.com/JunboS/MyWonder/blob/main/Gantt%20chart.png)
+![Gantt Chart](https://github.com/JunboS/MyWonder/blob/main/ganttchart.png?raw=true)
 ![](url)
